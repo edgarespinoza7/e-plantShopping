@@ -4,10 +4,11 @@
 .cart-item {
   display: flex;
   border-bottom: 1px solid #ccc;
-  padding: 10px 0;
+  padding: 20px 0;
   background-color: white;
   width: 500px;
   gap: 30px;
+  
 }
 
 .cart-item-image {
@@ -101,10 +102,11 @@
     margin-top: 10px; /* Add margin top for spacing */
   }
 }
+
 .cart-item {
     display: flex;
     border-bottom: 1px solid #ccc;
-    padding: 10px 0;
+    padding: 20px;
     background-color: white;
     width: 500px;
     gap: 30px;
